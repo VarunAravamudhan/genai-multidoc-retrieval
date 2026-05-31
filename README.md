@@ -99,4 +99,4 @@ print(str(response2))
 
 
 ### RESULT:
-Thus the program has been executed successfully
+The system successfully retrieves and synthesizes relevant information from multiple documents, providing concise and relevant answers to the user's query. Performance is evaluated based on the accuracy, relevance, and coherence of the responses.
